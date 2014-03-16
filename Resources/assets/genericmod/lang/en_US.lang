@@ -1,0 +1,14 @@
+tile.timestone.name=Time Stone
+tile.timeore.name=Time Ore
+item.timeshard.name=Time Shard
+item.timeingot.name=Time Ingot
+item.timeaxe.name=Time Axe
+item.timehoe.name=Time Hoe
+item.timeshovel.name=Time Shovel
+item.timesword.name=Time Sword
+item.timepickaxe.name=Time Pickaxe
+item.timehelm.name=Time Helmet
+item.timeplate.name=Time Chestplate
+item.timelegs.name=Time Leggings
+item.timeboots.name=Time Boots
+itemGroup.timetab=Time Tab
